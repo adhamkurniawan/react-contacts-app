@@ -122,7 +122,7 @@ We are always open to [your feedback](https://github.com/facebookincubator/creat
 After creation, your project should look like this:
 
 ```
-my-app/
+contacts-app/
   README.md
   node_modules/
   package.json
@@ -133,9 +133,11 @@ my-app/
     App.css
     App.js
     App.test.js
+    ContactsApp.js
     index.css
     index.js
     logo.svg
+    SearchBar.js
 ```
 
 For the project to build, **these files must exist with exact filenames**:
